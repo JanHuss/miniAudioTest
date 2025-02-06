@@ -1,0 +1,5 @@
+﻿  main.cpp
+D:\UniWork\Year 04\MiniaudioTest\Voice.h(29,15): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'main.cpp')
+  
+  MiniaudioTest.vcxproj -> D:\UniWork\Year 04\MiniaudioTest\x64\Debug\MiniaudioTest.exe

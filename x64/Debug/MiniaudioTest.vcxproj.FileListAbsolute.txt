@@ -1,0 +1,3 @@
+D:\UniWork\Year04\MiniaudioTest\x64\Debug\MiniaudioTest.exe
+D:\UniWork\Year 04\MiniaudioTest\x64\Debug\MiniaudioTest.exe
+D:\UniWork\Year 04\CodingTests\miniAudioTest\x64\Debug\MiniaudioTest.exe
